@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Arch packaging artifacts
+pkg/
+*.pkg.tar.*
+*.src.tar.*

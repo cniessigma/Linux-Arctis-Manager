@@ -113,6 +113,7 @@ lam-cli udev write-rules --force --reload # Required for first installation or n
 
 ### Documentation
 
+- [Arch packaging notes](docs/arch_packaging.md)
 - [How to add support to a new device](docs/device_support.md)
 - [Wireshark quick tutorial](https://www.youtube.com/watch?v=zWbdnHwTr3M)
 - [Device configuration specs](docs/device_configuration_file_specs.md)
